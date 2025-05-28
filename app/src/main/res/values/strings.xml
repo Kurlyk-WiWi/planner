@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">planner</string>
+    <string name="Calendar">Календарь</string>
+    <string name="Zaglushka1">Значки какие-то</string>
+    <string name="Mouth1">Январь</string>
+    <string name="Mouth2">Февраль</string>
+    <string name="Mouth3">Март</string>
+    <string name="Mouth4">Апрель</string>
+    <string name="Mouth5">Май</string>
+    <string name="Mouth6">Июнь</string>
+    <string name="Mouth7">Июль</string>
+    <string name="Mouth8">Август</string>
+    <string name="Mouth9">Сентябрь</string>
+    <string name="Mouth10">Октябрь</string>
+    <string name="Mouth11">Ноябрь</string>
+    <string name="Mouth12">Декабрь</string>
+    <string name="weekday1">П</string>
+    <string name="weekday2">В</string>
+    <string name="weekday3">С</string>
+    <string name="weekday4">Ч</string>
+    <string name="weekday5">П</string>
+    <string name="weekday6">С</string>
+    <string name="weekday7">В</string>
+    <string name="Year_2025">2025</string>
+    <string name="Zaglushka_menu">Иконки меню</string>
+    <string name="Zaglushka2">События дня</string>
+    <string name="plus_icon">+</string>
+    <string name="warning_time">
+        Введите время проведения занятия или выберите его из списка, нажав на кнопку справа
+    </string>
+    <string name="title_activity_faqactivity">Часто задаваемые\n вопросы</string>
+    <string name="action_settings">Settings</string>
+    <string name="FAQ_question1">Как увидеть всю информацию о занятии?</string>
+    <string name="FAQ_answer1">
+        \tВ раздела расписание нажмите прямоугольник нужного занятия.\n
+        \tПосле просмотра нажмите на тёмную часть экрана, чтобы вернуться.
+    </string>
+    <string name="FAQ_question2">Что такое списки?</string>
+    <string name="FAQ_answer2">
+        \tТам собраны все списки, которые участвуют в автозаполнении.\n
+        \tПреподаватели, предметы, кабинеты занятий - вся информация хранится там.
+    </string>
+    <string name="FAQ_question3">Как скрыть из вида сделанные задания?</string>
+    <string name="FAQ_answer3">
+        \tСледуйте этому пути Настройки -> Домашние задания -> Показать выполненное.\n\n
+        \tПодробнее:\n
+        \tНажмите на значок настроек в правом верхнем углу(шестерёнка).\n
+        \tНайдите строку Домашние задания.\n
+        \tСдвиньте переключатель Показать выполненное.
+    </string>
+    <string name="Scedule">Расписание</string>
+    <string name="scedule_infa">Добавь занятие, нажав на плюс</string>
+
+</resources>

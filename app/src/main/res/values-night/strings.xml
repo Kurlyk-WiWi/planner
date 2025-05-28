@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Calendar">Календарь</string>
+    <string name="Zaglushka1">Значки какие-то</string>
+    <string name="Mouth2">Февраль</string>
+    <string name="Year_2025">2025</string>
+    <string name="Zaglushka_menu">Иконки меню</string>
+    <string name="Zaglushka2">События дня</string>
+    <string name="plus_icon">+</string>
+</resources>
